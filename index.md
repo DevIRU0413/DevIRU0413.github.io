@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/css/style.css">
 ---
 layout: default
 title: "📂 DevIRU0413 Obsidian 블로그"
