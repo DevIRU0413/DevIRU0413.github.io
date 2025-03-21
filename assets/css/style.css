@@ -1,0 +1,23 @@
+body {
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.7;
+}
+
+a {
+  color: #89b4fa;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  background-color: #313244;
+  color: #f38ba8;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: monospace;
+}
