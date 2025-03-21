@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "첫 블로그 글 🎉"
 date: 2025-03-21
 ---
